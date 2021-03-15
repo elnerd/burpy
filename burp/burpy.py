@@ -11,8 +11,6 @@ try:
 except ImportError:
     pass
 
-import java.net
-import java.io
 
 class IBurpCollaboratorClientContext(object):
     """
